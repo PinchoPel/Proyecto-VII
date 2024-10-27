@@ -1,0 +1,20 @@
+{
+	"nickname": "Admin",
+	"password": "admin1"
+}
+
+{
+	"nickname": "Aficionado",
+	"password": "aficionado1"
+}
+
+{
+	"nickname": "Biologo",
+	"password": "biologo1"
+}
+
+{
+	"nickname": "Ornitologo",
+	"password": "ornitologo1"
+}
+
